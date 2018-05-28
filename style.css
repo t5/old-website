@@ -8,7 +8,6 @@ body,html {
 }
 
 body {
-  background: url("-2.png") no-repeat center center fixed; 
   background: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
