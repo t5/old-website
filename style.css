@@ -1,6 +1,6 @@
 @font-face {
-  font-family: SwistblnkBanthers; 
-  src: url(Swistblnk_Banthers.otf);  
+  font-family: Leaguegothic; 
+  src: url(leaguegothic-regular-webfont.ttf);  
 }
 
 body,html {
@@ -27,10 +27,9 @@ h1 {
   color: #284055;
   display: flex;
   justify-content: center;
-  font-family: SwistblnkBanthers; 
+  font-family: Leaguegothic; 
   font-weight: 900;
   font-size: 400%;
-  text-shadow: 0px 1px, 1px 0px, 1px 1px;  
 }
 
 .centerthis {
@@ -51,7 +50,7 @@ h1 {
   background: #284055;
   border-radius:  60%   60%   50%  50%;
   animation-name: bounce;
-  animation-duration: 0.6s;
+  animation-duration: 0.7s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: ease;
