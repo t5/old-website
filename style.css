@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Leaguegothic; 
-  src: url(leaguegothic-regular-webfont.ttf);  
+  font-family: Halogen; 
+  src: url('halogen.otf'); 
 }
 
 body,html {
@@ -27,7 +27,7 @@ h1 {
   color: #284055;
   display: flex;
   justify-content: center;
-  font-family: Leaguegothic; 
+  font-family: Halogen; 
   font-weight: 900;
   font-size: 400%;
 }
